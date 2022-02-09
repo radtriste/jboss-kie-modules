@@ -78,6 +78,7 @@ function check_for_required_envs()
             rhpam-kieserver | \
             rhpam-process-migration | \
             rhpam-smartrouter | \
+            rhpam-kogito-operator | \
             rhdm-controller | \
             rhdm-decisioncentral | \
             rhdm-kieserver)
